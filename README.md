@@ -6,5 +6,5 @@
  </p>
   
  <p align= "center">
-   <img src="https://giphy.com/embed/T2AmoAqrjAluU">
+   <img width ="250" src= "https://giphy.com/embed/BblRoSBzxgG04nCtDu">
   </P>
