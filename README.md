@@ -8,11 +8,11 @@
 
 - 🌱 I’m currently learning **Linux OS and backend ** & **Personal side projects**
 
-- 💬 Ask me about **Python, DSA, JS, java**
+- 💬 Ask me about **Python, Web dev, DSA, java**
 
 - 📫 How to reach me **abhi007sagar@gmail.com**
 
-- ⚡ Fun fact **I play football and video games till i pass out**
+- ⚡ Fun fact **I play football and video games untill my whole life ends**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
