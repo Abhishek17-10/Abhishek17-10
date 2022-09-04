@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Abhishek17-10&theme=dracula" alt="Abhishek" /></a> </p>
 
-- 🌱 I’m currently learning **Linux OS and backend ** & **Personal side projects**
+- 🌱 I’m currently learning **Linux OS and backend** & **Personal side projects**
 
 - 💬 Ask me about **Python, Web dev, DSA, java**
 
