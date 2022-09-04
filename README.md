@@ -1,5 +1,5 @@
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
-<h2 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Abhishek Singh</h2>
+<h2 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Abhishek </h2>
 <h3 align="center">A passionate and learning Full Stack Web Developer  currently pursuing my B.Tech degree in CSE from Manipal University Jaipur .</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Abhishek17-10&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek" /> </p>
