@@ -26,4 +26,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"  alt="Canva" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40" />
 </p>
-[![LeetCode Stats](https://leetcard.Abhishek2773/Abhishek2773?theme=unicorn&extension=activity)](https://leetcard.Abhishek2773/Abhishek2773?theme=unicorn&extension=activity)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/JacobLinCool?theme=unicorn&extension=activity)](https://leetcard.jacoblin.cool/JacobLinCool?theme=unicorn&extension=activity)
