@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **abhi007sagar@gmail.com**
 
-- 📄 Check my Resume <a href = "https://drive.google.com/file/d/1yxr99XOrcgTgp1MTji9pBLXUhz7afp2e/view?usp=sharing">
+- 📄 Check my Resume  https://drive.google.com/file/d/1yxr99XOrcgTgp1MTji9pBLXUhz7afp2e/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
