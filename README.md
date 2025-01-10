@@ -1,6 +1,6 @@
 ![](https://trisya.com/myimg/child/Website%20Design.gif)
 <h2 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Abhishek </h2>
-<h3 align="center">A passionate MERN Stack developer from Rajasthan , India</h3>
+<h3 align="center">A passionate MERN Stack developer from  India</h3>
 <img src ="https://komarev.com/ghpvc/?username=Abhishek17-10&color=blue" alt=""/>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b952zz7rpjkl60ku7upvdm8gfvzz07zqv5ifv6qb0lbu&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" alt=''/>
 
