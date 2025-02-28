@@ -27,7 +27,9 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Abhishek2773?theme=dark&font=Siemreap&ext=contest)
 <br></br>
 <h3 align="left">My Github Stats</h3>
-<img src ="https://github-readme-stats.vercel.app/api?username=Abhishek17-10&theme=vue&show_icons=true&hide_border=true&count_private=false" alt='' />
+ <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=gruvbox&preferLogin=false">    <img  alt="Abhishek17-10's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Abhishek17-10?cardType=level-alternate&theme=gruvbox&preferLogin=false" />  </a>
 <img src = "https://github-readme-streak-stats.herokuapp.com/?user=Abhishek17-10&theme=vue&hide_border=true" alt="" align = "right" width="400"  />
 <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek17-10&theme=vue&show_icons=true&hide_border=true&layout=compact" alt='' width ="400" />
+
+ 
 
