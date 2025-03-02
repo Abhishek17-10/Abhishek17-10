@@ -4,7 +4,7 @@
 <img src ="https://komarev.com/ghpvc/?username=Abhishek17-10&color=blue" alt=""/>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b952zz7rpjkl60ku7upvdm8gfvzz07zqv5ifv6qb0lbu&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" alt=''/>
 
-- 👨‍💻 All of my projects are available at [https://abhishek17-10.github.io/Personal_Portfolio/](https://abhishek17-10.github.io/Personal_Portfolio/)
+- 👨‍💻 All of my projects are available at https://3d-portfolio-red-iota.vercel.app/
 
 - 💬 Ask me about **MERN , Python and Web dev**
 
