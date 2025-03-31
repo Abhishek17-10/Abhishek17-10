@@ -8,7 +8,9 @@
 🚀 **Web Developer | Data Analyst**  
 🔭 Currently building real-time applications and AI-powered projects  
 📍 Bangalore, India  
-💙 Passionate Chelsea Fan  
+💙 Passionate Chelsea Fan
+
+🌐 **Check out my Portfolio:** [3D Portfolio](https://3d-portfolio-red-iota.vercel.app/)
 
 ---
 
