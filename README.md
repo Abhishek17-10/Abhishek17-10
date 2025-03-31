@@ -44,7 +44,7 @@
 ---
 
 ### 🚀 Projects:
-- [⚽ Football Live Scores](https://github.com/Abhishek17-10/football-live-scores) - Real-time Premier League updates.
+- [🎥 Football Video Analysis Tracker](https://github.com/Abhishek17-10/football-video-analysis) - Uses YOLOv5 and K-Means clustering to analyze football match videos.
 - [🗞️ News Summarizer & TTS](https://github.com/Abhishek17-10/news-summarizer) - Scrapes news, performs sentiment analysis, and converts it to Hindi speech.
 - [💬 MERN Chat App](https://github.com/Abhishek17-10/mern-messenger) - Real-time messaging built with MERN stack.
 - [🌐 3D Portfolio](https://github.com/Abhishek17-10/3d-portfolio) - Interactive portfolio using Three.js.
