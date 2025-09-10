@@ -86,17 +86,122 @@
 
 <div align="center">
 
+### 🚀 Live Applications
+
+<table>
+<tr>
+<td width="50%">
+
 ### 🎨 3D Portfolio
-[![Portfolio](https://img.shields.io/badge/🚀%20Live%20Demo-3D%20Portfolio-00d8ff?style=for-the-badge&logo=vercel&logoColor=white)](https://3d-portfolio-red-iota.vercel.app/)
-[![GitHub](https://img.shields.io/badge/📂%20Source%20Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhishek17-10)
+![Portfolio Preview](https://img.shields.io/badge/Status-🟢%20LIVE-success?style=flat-square)
 
-*Interactive 3D portfolio showcasing my work with modern web technologies*
+Interactive 3D portfolio with stunning animations and modern web technologies.
 
-### 💬 Messenger Chat App  
-[![Messenger](https://img.shields.io/badge/🚀%20Live%20Demo-Messenger%20Chat-00d8ff?style=for-the-badge&logo=vercel&logoColor=white)](https://messenger-chat-pi.vercel.app/)
-[![GitHub](https://img.shields.io/badge/📂%20Source%20Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhishek17-10)
+**Tech:** React • Three.js • GSAP • Tailwind CSS
 
-*Real-time messaging application with modern UI/UX design*
+[![Live Demo](https://img.shields.io/badge/🌐%20Experience-Live-00d8ff?style=for-the-badge)](https://3d-portfolio-red-iota.vercel.app/)
+
+</td>
+<td width="50%">
+
+### 💬 Messenger Chat App
+![Chat Preview](https://img.shields.io/badge/Status-🟢%20LIVE-success?style=flat-square)
+
+Real-time messaging with instant notifications and modern chat features.
+
+**Tech:** React • Socket.io • Node.js • MongoDB
+
+[![Live Demo](https://img.shields.io/badge/💬%20Chat%20Now-Live-00d8ff?style=for-the-badge)](https://messenger-chat-pi.vercel.app/)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+### 🛠️ Development Projects
+
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+
+### ⚽ Footverse
+![Football](https://img.shields.io/badge/Category-Sports%20Analytics-blue?style=flat-square)
+
+Advanced football analytics web app with player comparison, formation building, scouting reports, and stats visualization. Built with Streamlit for interactive data analysis.
+
+**Features:** Player Comparison • Scout Reports • Formation Builder • Global Heatmaps
+
+**Tech:** Python • Streamlit • Pandas • Plotly • Scikit-learn
+
+[![View Code](https://img.shields.io/badge/📂%20Explore-Code-black?style=for-the-badge&logo=github)](https://github.com/Abhishek17-10/Footverse)
+[![Live Demo](https://img.shields.io/badge/🚀%20Try-HuggingFace-yellow?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/spaces/your-space)
+
+</td>
+<td width="50%">
+
+### 📧 Email Classification
+![AI](https://img.shields.io/badge/Category-NLP%20%26%20AI-green?style=flat-square)
+
+Smart email classifier using DistilBERT that categorizes emails into Incident, Request, Problem, or Change while protecting privacy with PII masking.
+
+**Features:** DistilBERT Model • PII Masking • 4-Category Classification • Gradio UI
+
+**Tech:** Python • Transformers • SpaCy • Gradio • HuggingFace
+
+[![View Code](https://img.shields.io/badge/📂%20Explore-Code-black?style=for-the-badge&logo=github)](https://github.com/Abhishek17-10/Email-classification)
+[![Live Demo](https://img.shields.io/badge/🚀%20Try-HuggingFace-yellow?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/spaces/Shady2773/email-classifier)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### ₿ Bitcoin Market Analysis
+![Analytics](https://img.shields.io/badge/Category-Data%20Analysis-orange?style=flat-square)
+
+Comprehensive analysis of Bitcoin and cryptocurrency market capitalization using historical data, including data cleaning, filtering, and visualization to understand Bitcoin's market dominance.
+
+**Features:** Market Cap Analysis • Data Visualization • Trend Analysis • Bitcoin Dominance
+
+**Tech:** Python • Pandas • Matplotlib • Jupyter Notebook
+
+[![View Code](https://img.shields.io/badge/📂%20Explore-Code-black?style=for-the-badge&logo=github)](https://github.com/Abhishek17-10/Analyzing-Bitcoin-Crypto-Market)
+[![Notebook](https://img.shields.io/badge/📊%20View-Analysis-orange?style=for-the-badge&logo=jupyter)](https://github.com/Abhishek17-10/Analyzing-Bitcoin-Crypto-Market/blob/main/notebook.ipynb)
+
+</td>
+<td width="50%">
+
+### 🏃‍♂️ Football Analysis Tracker  
+![Computer Vision](https://img.shields.io/badge/Category-Computer%20Vision-red?style=flat-square)
+
+Advanced football tracking system using YOLO for detecting players, referees, and balls. Features team assignment, ball possession tracking, player movement analysis, and speed calculation.
+
+**Features:** YOLO Detection • Team Classification • Movement Tracking • Speed Analysis
+
+**Tech:** Python • YOLO • OpenCV • Kmeans • Optical Flow
+
+[![View Code](https://img.shields.io/badge/📂%20Explore-Code-black?style=for-the-badge&logo=github)](https://github.com/Abhishek17-10/Football_analysis_Tracker)
+[![Demo](https://img.shields.io/badge/🎥%20Watch-Demo-red?style=for-the-badge&logo=youtube)](https://github.com/Abhishek17-10/Football_analysis_Tracker#demo)
+
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+### 📊 Project Categories
+
+<div align="center">
+
+![Web Development](https://img.shields.io/badge/🌐%20Web%20Development-2%20Projects-blue?style=for-the-badge)
+![Data Science](https://img.shields.io/badge/📊%20Data%20Science-2%20Projects-green?style=for-the-badge)
+![AI/ML](https://img.shields.io/badge/🤖%20AI/ML-2%20Projects-purple?style=for-the-badge)
+![Computer Vision](https://img.shields.io/badge/👁️%20Computer%20Vision-1%20Project-red?style=for-the-badge)
 
 </div>
 
@@ -119,9 +224,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your-handle)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio.com)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/17_abhi__)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://https://3d-portfolio-red-iota.vercel.app/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhishekyadav2773@gmail.com)
 
 </div>
 
