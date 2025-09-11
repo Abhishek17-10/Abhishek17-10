@@ -17,7 +17,7 @@
 - 👯 I'm looking to collaborate on **open source projects**
 - 🤔 I'm looking for help with **system design and scalability**
 - 💬 Ask me about **JavaScript, React, Node.js, or anything tech-related**
-- 📫 How to reach me: **[abhishekyadav2773@gmail.com]**
+- 📫 How to reach me: **abhishekyadav2773@gmail.com**
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **I debug with console.log and I'm not ashamed of it! 🐛**
 
