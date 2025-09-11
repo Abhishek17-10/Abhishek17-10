@@ -3,10 +3,10 @@
 <div align="center">
   
   <!-- Animated Header -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=ABHISHEK%20YADAV&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=60&descSize=18" alt="Header"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=ABHISHEK%20SINGH&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20Data%20Analyst%20%7C%20Salesforce%20Developer&descAlignY=60&descSize=18" alt="Header"/>
 
   <!-- Typing Animation -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=3000&pause=1000&color=00D8FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=🚀+Building+the+Future+with+Code;🎨+Crafting+Digital+Experiences;🧠+AI%2FML+Explorer;🌐+Full+Stack+Architect" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=3000&pause=1000&color=00D8FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=🚀+MERN+Stack+Developer;📊+Data+Analyst+%26+Visualizer;☁️+Cloud+%26+DevOps+Engineer;🤖+AI/ML+Enthusiast" alt="Typing SVG" />
   
   <!-- Dynamic Badges -->
   <br/>
@@ -21,7 +21,7 @@
 <div align="center">
   
 ## 🎯 **MISSION STATEMENT**
-*"Transforming ideas into digital reality through innovative code and cutting-edge technology"*
+*"Building scalable, real-time applications with cutting-edge technology and data-driven insights"*
 
 </div>
 
@@ -30,29 +30,39 @@
 ### 🚀 **ABOUT THE DEVELOPER**
 
 ```typescript
-const abhishek = {
-    name: "Abhishek Yadav",
-    role: "Full Stack Developer",
+const abhishekSingh = {
+    name: "Abhishek Singh",
+    role: "Full Stack Developer & Data Analyst",
     location: "India 🇮🇳",
+    education: "B.Tech CSE - Manipal University Jaipur",
+    gpa: "8.0/10.0",
     
     currentFocus: [
-        "Building scalable web applications",
-        "Exploring AI/ML possibilities",
-        "Contributing to open source",
-        "Learning cloud architecture"
+        "MERN Stack Development",
+        "Data Science & Analytics",
+        "Cloud Architecture (AWS)",
+        "Real-time Applications"
     ],
     
-    technologies: {
-        frontend: ["React", "Next.js", "Vue.js", "TypeScript"],
-        backend: ["Node.js", "Python", "Django", "Express"],
-        database: ["MongoDB", "PostgreSQL", "Firebase"],
-        cloud: ["AWS", "Docker", "Vercel"],
-        tools: ["Git", "VS Code", "Postman", "Figma"]
+    experience: {
+        current: "IT Intern @ Synergiz Global",
+        previous: "Salesforce Developer Intern @ Salesforce",
+        expertise: ["FastAPI", "React.js", "Docker", "Kafka", "AWS EC2"]
     },
     
-    currentlyLearning: "Advanced System Design & Microservices",
-    askMeAbout: ["Web Dev", "AI/ML", "Open Source", "Tech Trends"],
-    funFact: "I debug with console.log() and I'm proud of it! 🐛✨"
+    technologies: {
+        frontend: ["React.js", "Next.js", "Three.js", "HTML", "CSS", "Tailwind"],
+        backend: ["Node.js", "FastAPI", "Express", "REST APIs", "Kafka"],
+        database: ["MongoDB", "SQL", "PostgreSQL"],
+        cloud: ["AWS EC2", "Docker"],
+        dataScience: ["Python", "Pandas", "NumPy", "Matplotlib", "Seaborn"],
+        visualization: ["Power BI", "Tableau"],
+        salesforce: ["Apex", "Lightning Web Components", "Flows"]
+    },
+    
+    currentlyBuilding: "AI-driven scalable applications",
+    askMeAbout: ["MERN Stack", "Data Analytics", "Salesforce", "Cloud Deployment"],
+    funFact: "I containerize everything with Docker! 🐳"
 };
 ```
 
@@ -62,14 +72,28 @@ const abhishek = {
 
 ## 🛠️ **TECH ARSENAL**
 
-### **Languages & Frameworks**
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,react,nextjs,vue,nodejs,django,flask&theme=dark" />
+### **Languages & Core Technologies**
+<img src="https://skillicons.dev/icons?i=js,python,cpp,html,css,react,nodejs,express,fastapi&theme=dark" />
 
-### **Tools & Technologies** 
-<img src="https://skillicons.dev/icons?i=git,docker,aws,firebase,mongodb,postgres,mysql,tailwind,bootstrap,figma&theme=dark" />
+### **Data Science & Analytics** 
+<img src="https://skillicons.dev/icons?i=python,anaconda,jupyter&theme=dark" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 
-### **Development Environment**
-<img src="https://skillicons.dev/icons?i=vscode,github,vercel,postman,linux,windows&theme=dark" />
+### **Cloud & DevOps**
+<img src="https://skillicons.dev/icons?i=aws,docker,kafka&theme=dark" />
+<img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />
+
+### **Database & Tools**
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,git,github,vscode&theme=dark" />
+
+### **Salesforce Ecosystem**
+<img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
+<img src="https://img.shields.io/badge/Lightning_Web_Components-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
+<img src="https://img.shields.io/badge/Apex-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
 
 </div>
 
@@ -98,11 +122,9 @@ const abhishek = {
 
 ---
 
-## 🌟 **FEATURED PROJECTS**
-
 <div align="center">
 
-### 🚀 **LIVE APPLICATIONS**
+## 💼 **PROFESSIONAL EXPERIENCE**
 
 </div>
 
@@ -112,19 +134,72 @@ const abhishek = {
 
 <div align="center">
 
-### 🎨 **3D Interactive Portfolio**
-[![Portfolio](https://img.shields.io/badge/🌐_LIVE_DEMO-00d8ff?style=for-the-badge&logo=vercel&logoColor=white)](https://3d-portfolio-red-iota.vercel.app/)
+### 💻 **Current Role**
+**IT Intern @ Synergiz Global**
+*Aug 2025 – Present* | *Hyderabad*
 
 </div>
 
-**A stunning 3D portfolio experience**
-- 🌟 Interactive 3D animations
-- ⚡ Modern React architecture  
-- 🎭 GSAP-powered transitions
-- 📱 Fully responsive design
+🚀 **Key Achievements:**
+- Deployed features using **FastAPI** and **React.js**
+- Integrated **AI-driven models** into live projects
+- Containerized applications with **Docker**
+- Implemented **Apache Kafka** for real-time data streaming
+- Deployed services on **AWS EC2** with optimized scalability
+
+</td>
+<td width="50%">
+
+<div align="center">
+
+### ☁️ **Previous Experience**
+**Salesforce Developer Intern @ Salesforce**
+*May 2023 – Aug 2023* | *Remote*
+
+</div>
+
+⚡ **Key Contributions:**
+- Implemented **Salesforce automation** (Flows, Apex)
+- Enhanced organizational security protocols
+- Developed **Lightning Web Components** (LWC)
+- Integrated APIs using **VS Code** and **Salesforce CLI**
+- Streamlined business processes through automation
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🌟 **FEATURED PROJECTS**
+
+<div align="center">
+
+### 🚀 **PRODUCTION APPLICATIONS**
+
+</div>
+
+<table width="100%">
+<tr>
+<td width="50%">
+
+<div align="center">
+
+### 💬 **StreamChat Real-Time App**
+[![Live Demo](https://img.shields.io/badge/🌐_LIVE_DEMO-00d8ff?style=for-the-badge&logo=vercel&logoColor=white)](https://messenger-chat-pi.vercel.app/)
+[![Code](https://img.shields.io/badge/📂_CODE-black?style=for-the-badge&logo=github)](https://github.com/Abhishek17-10)
+
+</div>
+
+**High-performance chat application**
+- 🔥 Supports **30+ concurrent users**
+- ⚡ **WebSocket protocol** for real-time messaging
+- 📱 **Responsive design** across all devices
+- 🔒 Secure user authentication
 
 ```
-Tech: React • Three.js • GSAP • Tailwind
+Tech: WebSocket • AWS • JavaScript 
+Node.js • Express • React • MongoDB
 ```
 
 </td>
@@ -132,19 +207,20 @@ Tech: React • Three.js • GSAP • Tailwind
 
 <div align="center">
 
-### 💬 **Real-time Messenger**
-[![Messenger](https://img.shields.io/badge/💬_CHAT_NOW-00d8ff?style=for-the-badge&logo=socket.io&logoColor=white)](https://messenger-chat-pi.vercel.app/)
+### 🎨 **Interactive 3D Portfolio**
+[![Portfolio](https://img.shields.io/badge/🌟_PORTFOLIO-00d8ff?style=for-the-badge&logo=three.js&logoColor=white)](https://3d-portfolio-red-iota.vercel.app/)
 
 </div>
 
-**Modern chat application with real-time features**
-- ⚡ Instant messaging
-- 🔔 Push notifications
-- 👥 User presence tracking
-- 🔒 Secure authentication
+**Immersive 3D web experience**
+- 🌟 **Three.js** powered 3D animations
+- 🎭 Smooth transitions and interactions
+- 📊 Dynamic project showcase
+- 🎯 Modern UI/UX design
 
 ```
-Tech: React • Socket.io • Node.js • MongoDB
+Tech: React • Three.js • Tailwind CSS
+GSAP • Framer Motion
 ```
 
 </td>
@@ -167,32 +243,31 @@ Tech: React • Socket.io • Node.js • MongoDB
 <tr>
 <td width="50%">
 
-#### ⚽ **Footverse - Football Analytics**
-[![Code](https://img.shields.io/badge/View_Code-black?style=flat-square&logo=github)](https://github.com/Abhishek17-10/Footverse)
-[![Demo](https://img.shields.io/badge/Live_Demo-yellow?style=flat-square&logo=huggingface&logoColor=white)](https://huggingface.co/spaces/your-space)
+#### 📧 **Email Classification System**
+[![Code](https://img.shields.io/badge/View_Code-black?style=flat-square&logo=github)](https://github.com/Abhishek17-10/Email-classification)
+[![Demo](https://img.shields.io/badge/Live_Demo-yellow?style=flat-square&logo=huggingface&logoColor=white)](https://huggingface.co/spaces/Shady2773/email-classifier)
 
-Advanced football analytics platform with:
-- 📊 Player comparison algorithms
-- 🎯 Scout report generation  
-- ⚽ Formation optimization
-- 🗺️ Performance heatmaps
+**AI-powered spam detection and classification**
+- 🧠 **NLP & ML algorithms** for accurate classification
+- 🎯 **Reduced false positives** by 85%
+- 🔐 Privacy-focused email processing
+- 📊 Interactive classification interface
 
-**Stack**: `Python` `Streamlit` `Pandas` `Plotly` `Scikit-learn`
+**Stack**: `Python` `Scikit-learn` `Pandas` `NumPy` `Jupyter Notebook`
 
 </td>
 <td width="50%">
 
-#### 📧 **Smart Email Classifier**
-[![Code](https://img.shields.io/badge/View_Code-black?style=flat-square&logo=github)](https://github.com/Abhishek17-10/Email-classification)
-[![Demo](https://img.shields.io/badge/Try_Live-yellow?style=flat-square&logo=huggingface&logoColor=white)](https://huggingface.co/spaces/Shady2773/email-classifier)
+#### ⚽ **Football Analytics Platform**
+[![Code](https://img.shields.io/badge/View_Code-black?style=flat-square&logo=github)](https://github.com/Abhishek17-10/Footverse)
 
-AI-powered email categorization system:
-- 🧠 DistilBERT classification model
-- 🔐 Privacy-first PII masking
-- 🏷️ 4-category classification
-- 🎨 Interactive Gradio interface
+**Advanced sports data analytics**
+- 📊 **Performance metrics** and player analysis
+- 🎯 **Data visualization** with interactive charts
+- 📈 **Statistical modeling** for team insights
+- 🏆 **Comprehensive reporting** system
 
-**Stack**: `Python` `Transformers` `SpaCy` `Gradio` `HuggingFace`
+**Stack**: `Python` `Streamlit` `Pandas` `Plotly` `Matplotlib`
 
 </td>
 </tr>
@@ -204,17 +279,16 @@ AI-powered email categorization system:
 <summary><b>🎥 Computer Vision Projects</b></summary>
 <br>
 
-#### 🏃‍♂️ **Football Analysis Tracker**
+#### 🏃‍♂️ **Football Match Tracker**
 [![Code](https://img.shields.io/badge/View_Code-black?style=flat-square&logo=github)](https://github.com/Abhishek17-10/Football_analysis_Tracker)
-[![Demo](https://img.shields.io/badge/Watch_Demo-red?style=flat-square&logo=youtube)](https://github.com/Abhishek17-10/Football_analysis_Tracker#demo)
 
-Real-time football tracking and analysis:
-- 🎯 YOLO object detection (players, ball, referee)
-- 🏃‍♂️ Player movement tracking
-- ⚡ Speed and distance calculations  
-- 👥 Team classification algorithms
+**Real-time player tracking and analytics**
+- 🎯 **YoloV5** for automated player detection
+- 📏 **Performance metrics**: speed, distance, possession
+- 🧮 **K-means clustering** for team classification
+- 📊 **Real-time analytics** dashboard
 
-**Stack**: `Python` `YOLO` `OpenCV` `Kmeans` `Optical Flow`
+**Stack**: `Python` `YoloV5` `OpenCV` `K-means` `Jupyter Notebook`
 
 </details>
 
@@ -226,13 +300,13 @@ Real-time football tracking and analysis:
 [![Code](https://img.shields.io/badge/View_Code-black?style=flat-square&logo=github)](https://github.com/Abhishek17-10/Analyzing-Bitcoin-Crypto-Market)
 [![Notebook](https://img.shields.io/badge/View_Analysis-orange?style=flat-square&logo=jupyter)](https://github.com/Abhishek17-10/Analyzing-Bitcoin-Crypto-Market/blob/main/notebook.ipynb)
 
-Comprehensive cryptocurrency market analysis:
-- 📈 Bitcoin dominance tracking
-- 🔍 Market cap trend analysis
-- 📊 Interactive visualizations
-- 💹 Investment insights generation
+**Comprehensive cryptocurrency market analysis**
+- 📈 **Market trend analysis** and prediction modeling
+- 💹 **Data visualization** with interactive charts
+- 🔍 **Statistical insights** for investment strategies
+- 📊 **Performance benchmarking** across cryptocurrencies
 
-**Stack**: `Python` `Pandas` `Matplotlib` `Jupyter`
+**Stack**: `Python` `Pandas` `Matplotlib` `Jupyter` `Data Analysis`
 
 </details>
 
@@ -240,9 +314,31 @@ Comprehensive cryptocurrency market analysis:
 
 <div align="center">
 
-## 📈 **CODING ACTIVITY**
+## 🎓 **CERTIFICATIONS & EDUCATION**
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Abhishek17-10&theme=react&hide_border=true&bg_color=0D1117&title_color=61dafb&icon_color=61dafb&text_color=c9d1d9&custom_title=Weekly%20Development%20Breakdown" alt="Abhishek's Coding Activity" />
+<table>
+<tr>
+<td width="50%">
+
+### 🎓 **Education**
+**B.Tech in Computer Science & Engineering**  
+*Manipal University Jaipur* | *GPA: 8.0/10.0*  
+*Nov 2020 – Oct 2024*
+
+**Coursework**: Computer Science, Web Development, Data Science/Analysis
+
+</td>
+<td width="50%">
+
+### 🏆 **Certifications**
+- 🌐 **Web Development Bootcamp** - Udemy (2022)
+- 🎨 **UI/UX Design** - Coursera  
+- 📊 **Data Science** - Coursera
+- 🗄️ **Database Foundation** - Oracle
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -250,24 +346,47 @@ Comprehensive cryptocurrency market analysis:
 
 <div align="center">
 
-## 🎯 **2024 ROADMAP**
+## 📈 **SKILLS BREAKDOWN**
 
 ```mermaid
-graph LR
-    A[🎯 Goals] --> B[🚀 Open Source]
-    A --> C[☁️ Cloud Architecture] 
-    A --> D[🤖 AI Integration]
-    A --> E[📱 Mobile Development]
+graph TD
+    A[💻 Technical Skills] --> B[🌐 Frontend Development]
+    A --> C[⚙️ Backend Development]
+    A --> D[📊 Data Science]
+    A --> E[☁️ Cloud & DevOps]
+    A --> F[🔧 Salesforce]
     
-    B --> F[10+ Contributions]
-    C --> G[AWS Certification]
-    D --> H[ML Pipeline]
-    E --> I[React Native App]
+    B --> B1[React.js, Next.js, Three.js]
+    B --> B2[HTML, CSS, Tailwind, Bootstrap]
+    
+    C --> C1[Node.js, FastAPI, Express]
+    C --> C2[REST APIs, Kafka, WebSocket]
+    
+    D --> D1[Python, Pandas, NumPy]
+    D --> D2[Matplotlib, Seaborn, Power BI]
+    
+    E --> E1[AWS EC2, Docker]
+    E --> E2[Git, GitHub, VS Code]
+    
+    F --> F1[Apex, Lightning Web Components]
+    F --> F2[Salesforce CLI, Automation]
     
     style A fill:#61dafb
-    style B,C,D,E fill:#0D1117,stroke:#61dafb
-    style F,G,H,I fill:#21262d,stroke:#30363d
+    style B,C,D,E,F fill:#0D1117,stroke:#61dafb
+    style B1,B2,C1,C2,D1,D2,E1,E2,F1,F2 fill:#21262d,stroke:#30363d
 ```
+
+</div>
+
+---
+
+<div align="center">
+
+## 🎯 **2025 ROADMAP**
+
+**Current Goals & Learning Path**
+
+📚 **Advanced System Design** • ☁️ **Cloud Architecture Mastery** • 🤖 **AI/ML Integration** • 📱 **Mobile Development**
 
 </div>
 
@@ -278,16 +397,15 @@ graph LR
 ## 🌐 **LET'S CONNECT & COLLABORATE**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/17_abhi__)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://3d-portfolio-red-iota.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhishekyadav2773@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919116550238)
 
-### 💬 **Open for:**
-- 🤝 Collaboration on innovative projects
-- 💼 Freelance opportunities  
-- 🎯 Technical discussions
-- 🌟 Open source contributions
+### 💼 **Available for:**
+- 🚀 **Full-time opportunities** in Full Stack Development
+- 🤝 **Freelance projects** in Web Development & Data Analytics
+- 📊 **Consultancy** in Salesforce implementations
+- 🌟 **Open source collaborations**
 
 </div>
 
@@ -295,9 +413,9 @@ graph LR
 
 <div align="center">
 
-## 💭 **DAILY INSPIRATION**
+## 💭 **DEVELOPER WISDOM**
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it's%20bad.&author=Cory%20House" alt="Quote" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20best%20time%20to%20plant%20a%20tree%20was%2020%20years%20ago.%20The%20second%20best%20time%20is%20now.&author=Chinese%20Proverb" alt="Quote" />
 
 </div>
 
@@ -323,7 +441,7 @@ graph LR
   
   ### ⭐ **If you find my work interesting, please consider starring some repositories!** ⭐
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=4000&pause=1000&color=61dafb&center=true&vCenter=true&width=500&lines=Happy+Coding!+🚀;Let's+Build+Amazing+Things+Together!+✨;Keep+Learning%2C+Keep+Growing!+🌱" alt="Footer Typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=4000&pause=1000&color=61dafb&center=true&vCenter=true&width=500&lines=Let's+Build+Amazing+Things+Together!+🚀;Always+Learning%2C+Always+Growing!+📚;Open+to+New+Opportunities!+💼" alt="Footer Typing" />
   
 </div>
 
